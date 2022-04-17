@@ -10,6 +10,8 @@
 
 ## Video demo
 
+Firstly Go through this -->
+
 [![Video Demo](https://cdn.pixabay.com/photo/2016/04/24/14/36/youtube-1349702__340.png)](https://www.youtube.com/watch?v=OBJV92f0kcU)
 
 Loop is a a real time student activity tracker and feedback system.
