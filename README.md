@@ -34,7 +34,12 @@ We are using Machine-Learning for analyzing performance of the whole batch and t
 
 __5.) Online classes and Courses:__ _This is the feature which differentiates us from others._ On this platform teachers can take online classes and then they can publish those lectures as courses which students can access whenever they need. This will be beneficial to both teachers and students.
 
+# Tech Stack
+__Frontened:__ HTML , CSS , JAVASCRIPT , REACTJS
 
+__Backened:__ FLASK , NODEJS
+
+__Database:__ FIREBASE
 
 
 ## Installation
@@ -55,7 +60,6 @@ Run this flask app.
 ```bash
 python app.py
 ```
-
 
 
 ## Contributing
