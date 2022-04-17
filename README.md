@@ -41,6 +41,8 @@ __Backened:__ FLASK , NODEJS
 
 __Database:__ FIREBASE
 
+# Presentation
+[Presentation link](https://github.com/tryst-hackathon-3/Runtime_Terror_LOOP/blob/main/1.Prenentation_LOOP/loop.pdf)
 
 ## Installation
 
