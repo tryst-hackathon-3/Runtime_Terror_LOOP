@@ -1,6 +1,6 @@
 # CodeSapiens...
 
-## IITDelhi
+## IIT_Delhi
 
 # Team Name - Runtime_Terror
 
