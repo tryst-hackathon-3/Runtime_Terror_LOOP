@@ -16,6 +16,12 @@ Firstly Go through this -->
 
 [![Video Demo](https://cdn.pixabay.com/photo/2016/04/24/14/36/youtube-1349702__340.png)](https://www.youtube.com/watch?v=OBJV92f0kcU)
 
+# Presentation
+[Presentation link](https://github.com/tryst-hackathon-3/Runtime_Terror_LOOP/blob/main/1.Prenentation_LOOP/loop.pdf)
+
+
+# About
+
 Loop is a a real time student activity tracker and feedback system.
 Nowadays, when only metric to judge a student is using academics, we want to analyze a student on the basis of their co-curricular activities too.
 
@@ -45,8 +51,6 @@ __Backened:__ FLASK , NODEJS
 
 __Database:__ FIREBASE
 
-# Presentation
-[Presentation link](https://github.com/tryst-hackathon-3/Runtime_Terror_LOOP/blob/main/1.Prenentation_LOOP/loop.pdf)
 
 ## Installation
 
