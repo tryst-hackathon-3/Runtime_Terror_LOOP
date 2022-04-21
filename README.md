@@ -19,6 +19,9 @@ Firstly Go through this -->
 [![Video Demo](https://cdn.pixabay.com/photo/2016/04/24/14/36/youtube-1349702__340.png)](https://www.youtube.com/watch?v=OBJV92f0kcU)
 
 # Presentation
+
+## Go through PPT as well -->
+
 [Presentation link](https://github.com/tryst-hackathon-3/Runtime_Terror_LOOP/blob/main/1.Prenentation_LOOP/loop.pdf)
 
 
