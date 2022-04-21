@@ -20,7 +20,7 @@ Firstly Go through this -->
 
 # Presentation
 
-## Go through PPT as well -->
+## Go through Presentation as well -->
 
 [Presentation link](https://github.com/tryst-hackathon-3/Runtime_Terror_LOOP/blob/main/1.Prenentation_LOOP/loop.pdf)
 
